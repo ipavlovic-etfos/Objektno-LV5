@@ -1,0 +1,29 @@
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\bin\Debug\prvi.exe.config
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\bin\Debug\prvi.exe
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\bin\Debug\prvi.pdb
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\obj\Debug\prvi.csprojResolveAssemblyReference.cache
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\obj\Debug\prvi.Form1.resources
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\obj\Debug\prvi.Properties.Resources.resources
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\obj\Debug\prvi.csproj.GenerateResource.Cache
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\obj\Debug\prvi.exe
+G:\Objektno programiranje\lv5 kalkulator\prvi\prvi\obj\Debug\prvi.pdb
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\prvi.exe.config
+C:\Users\Anita\Desktop\prvi\prvi\obj\Debug\prvi.exe
+C:\Users\Anita\Desktop\prvi\prvi\obj\Debug\prvi.pdb
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\prvi.exe
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\prvi.pdb
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\IronPython.dll
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\IronPython.xml
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Anita\Desktop\prvi\prvi\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Anita\Desktop\prvi\prvi\obj\Debug\prvi.csprojResolveAssemblyReference.cache
+C:\Users\Anita\Desktop\prvi\prvi\obj\Debug\prvi.Form1.resources
+C:\Users\Anita\Desktop\prvi\prvi\obj\Debug\prvi.Properties.Resources.resources
+C:\Users\Anita\Desktop\prvi\prvi\obj\Debug\prvi.csproj.GenerateResource.Cache
+C:\Users\Anita\Desktop\današnji labosi\prvi\bin\Debug\prvi.exe.config
+C:\Users\Anita\Desktop\današnji labosi\prvi\obj\Debug\prvi.exe
+C:\Users\Anita\Desktop\današnji labosi\prvi\obj\Debug\prvi.pdb

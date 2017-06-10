@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glavni", "prvi\glavni.csproj", "{97BD918E-DDE1-4731-ADF1-7C408FB884BE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "iron", "IronP1\iron.pyproj", "{1F6E837C-F333-4454-8F2F-FC914B36E958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97BD918E-DDE1-4731-ADF1-7C408FB884BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BD918E-DDE1-4731-ADF1-7C408FB884BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BD918E-DDE1-4731-ADF1-7C408FB884BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BD918E-DDE1-4731-ADF1-7C408FB884BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6E837C-F333-4454-8F2F-FC914B36E958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6E837C-F333-4454-8F2F-FC914B36E958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
